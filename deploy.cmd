@@ -1,0 +1,3 @@
+@echo off
+echo Running GitHub Action...
+REM Add your commands here
